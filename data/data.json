@@ -1,0 +1,18 @@
+
+{
+    "personas":[
+        {
+            "nombre":"Franco",
+            "edad": 26
+        },
+        {
+            "nombre":"Jorgito",
+            "edad": 100
+        },
+        {
+            "nombre":"Guaymallen",
+            "edad": 120
+        }
+    
+    ]
+}
